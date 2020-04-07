@@ -1,0 +1,11 @@
+/Users/dennychung/Documents/Collections/obj/Debug/netcoreapp2.2/Collections.csprojAssemblyReference.cache
+/Users/dennychung/Documents/Collections/obj/Debug/netcoreapp2.2/Collections.csproj.CoreCompileInputs.cache
+/Users/dennychung/Documents/Collections/obj/Debug/netcoreapp2.2/Collections.AssemblyInfoInputs.cache
+/Users/dennychung/Documents/Collections/obj/Debug/netcoreapp2.2/Collections.AssemblyInfo.cs
+/Users/dennychung/Documents/Collections/bin/Debug/netcoreapp2.2/Collections.deps.json
+/Users/dennychung/Documents/Collections/bin/Debug/netcoreapp2.2/Collections.runtimeconfig.json
+/Users/dennychung/Documents/Collections/bin/Debug/netcoreapp2.2/Collections.runtimeconfig.dev.json
+/Users/dennychung/Documents/Collections/bin/Debug/netcoreapp2.2/Collections.dll
+/Users/dennychung/Documents/Collections/bin/Debug/netcoreapp2.2/Collections.pdb
+/Users/dennychung/Documents/Collections/obj/Debug/netcoreapp2.2/Collections.dll
+/Users/dennychung/Documents/Collections/obj/Debug/netcoreapp2.2/Collections.pdb
